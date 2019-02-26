@@ -12,8 +12,8 @@ package cse360assign2;
 
 /**
  * The Calculator object encapsulates the data and operations associated 
- * with basic calculator functions, as well as methods
- * return calculator data
+ * with basic calculator functions, as well as methods to
+ * return calculator total data and history of operations
  */
 
 public class Calculator {
